@@ -56,7 +56,7 @@ I’ve gained hands-on experience through my **internship at Data Glacier**, whe
 
 | 📄 Certification                      | 🏫 Institution        | 📆 Date            | 🔗 Link |
 |---------------------------------------|----------------------|--------------------|--------|
-| Bachiller en Ingeniería Industrial     | Universidad Fidélitas      | December 2022      | [View Certificate]() |
+| Bachiller en Ingeniería Industrial     | Universidad Fidélitas      | December 2022      | [View Certificate](https://github.com/KeilorFP/Certificates/blob/main/TITULO%20UNIVERSIDAD.pdf) |
 | Bootcamp de Ciencia de Datos con Azure | Código Facilito      | December 2024      | [View Certificate](https://github.com/KeilorFP/KeilorFP/blob/main/certificado.pdf) |
 
 
