@@ -94,9 +94,12 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/keilor-fallas-prado-55189b252" target="_blank">
-  <img src="https://github.com/KeilorFP/Certificates/blob/main/Linkedl.png" alt="LinkedIn" width="160">
+  <img src="https://github.com/KeilorFP/Certificates/blob/main/Linkedl.png" alt="LinkedIn" width="180">
 </a>
-[![Gmail]()](KeilorFP:kfallasprado@gmail.com)
+<a href="KeilorFP: kfallasprado@gmail.com">
+  <img src="https://github.com/KeilorFP/Certificates/blob/main/Gmail.png" alt="Gmail" width="180">
+</a>
+
 
 
 
