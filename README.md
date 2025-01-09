@@ -46,7 +46,7 @@ I’ve gained hands-on experience through my **internship at Data Glacier**, whe
 ---
 
 ### 📫 **How to Reach Me:**
-- [💼 LinkedIn](www.linkedin.com/in/keilor-fallas-prado-55189b252)  
+- [💼 LinkedIn](https://www.linkedin.com/in/keilor-fallas-prado-55189b252)  
 - 📧 Email: kfallasprado@gmail.com 
 
 ---
