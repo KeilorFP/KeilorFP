@@ -54,7 +54,7 @@ I’ve gained hands-on experience through my **internship at Data Glacier**, whe
 
 ## 📜 Certifications  
 
-- [Bootcamp de Ciencia de Datos con Azure - Código Facilito](https://github.com/KeilorFP/KeilorFP/blob/main/certificado.pdf)  
+- [Bootcamp de Ciencia de Datos con Azure - Código Facilito](https://github.com/KeilorFP/Certificates/blob/main/TITULO%20UNIVERSIDAD.pdf)  
 
 
 ---
