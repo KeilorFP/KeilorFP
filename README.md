@@ -62,13 +62,13 @@
     <th>🔗 Link</th>
   </tr>
   <tr>
-    <td>🎓 Bachiller en Ingeniería Industrial</td>
+    <td>🎓 Bachelor's Degree in Industrial Engineering</td>
     <td>Universidad Fidélitas</td>
     <td>December 2022</td>
     <td><a href="https://github.com/KeilorFP/Certificates/blob/main/TITULO%20UNIVERSIDAD.pdf">View Certificate</a></td>
   </tr>
   <tr>
-    <td>📊 Bootcamp de Ciencia de Datos con Azure</td>
+    <td>📊 Data Science Bootcamp with Azure</td>
     <td>Código Facilito</td>
     <td>December 2024</td>
     <td><a href="https://github.com/KeilorFP/Certificates/blob/main/certificado.pdf">View Certificate</a></td>
