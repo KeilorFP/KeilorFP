@@ -1,31 +1,37 @@
 <p align="center">
-  <img src="https://i.imgur.com/zN6xIbz.png" width="300px" alt="Data Scientist Banner"/>
+  <img src="https://i.imgur.com/zN6xIbz.png" width="500px" alt="Data Scientist Banner"/>
 </p>
 
-# 👋 Hi there, I'm **Keilor Fallas Prado**!  
+<h1 align="center">👋 Hi there, I'm <strong>Keilor Fallas Prado</strong>!</h1>
 
-💻 **Data Scientist in Progress | Industrial Engineer | Lifelong Learner**  
-
-I hold a **Bachelor's degree in Industrial Engineering** from **Universidad Fidélitas**, and I'm currently pursuing a **Master’s degree in Data Science**.  
-I’ve gained hands-on experience through my **internship at Data Glacier**, where I worked on real-world data projects applying machine learning and data analysis techniques.
-
----
-
-## 🚀 **What I’m Passionate About:**  
-🎯 **Turning data into actionable insights**  
-📈 **Building predictive models to solve real-world problems**  
-⚙️ **Automating workflows and optimizing processes**
+<p align="center">
+  💻 <strong>Data Scientist in Progress | Industrial Engineer | Lifelong Learner</strong> 💻
+</p>
 
 ---
 
-## 📚 **Currently Learning:**  
-🔍 **Advanced Machine Learning**  
-☁️ **Cloud Technologies (AWS, Azure)**  
-📊 **Big Data Processing with Spark**
+<h2 align="center">🚀 What I’m Passionate About:</h2>
+
+<p align="center" style="font-size: 20px;">
+  🎯 <strong>Turning data into actionable insights</strong><br>
+  📈 <strong>Building predictive models to solve real-world problems</strong><br>
+  ⚙️ <strong>Automating workflows and optimizing processes</strong>
+</p>
 
 ---
 
-## 📊 **Tech Stack:**  
+<h2 align="center">📚 Currently Learning:</h2>
+
+<p align="center" style="font-size: 20px;">
+  🔍 <strong>Advanced Machine Learning</strong><br>
+  ☁️ <strong>Cloud Technologies (AWS, Azure)</strong><br>
+  📊 <strong>Big Data Processing with Spark</strong>
+</p>
+
+---
+
+<h2 align="center">📊 Tech Stack:</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
@@ -40,28 +46,49 @@ I’ve gained hands-on experience through my **internship at Data Glacier**, whe
 
 ---
 
-## 📜 **Certifications:**  
-| 📄 **Certification**                     | 🏫 **Institution**          | 📆 **Date**       | 🔗 **Link** |
-|------------------------------------------|----------------------------|-------------------|-------------|
-| 🎓 Bachiller en Ingeniería Industrial     | Universidad Fidélitas       | December 2022     | [View Certificate](https://github.com/KeilorFP/Certificates/blob/main/TITULO%20UNIVERSIDAD.pdf) |
-| 📊 Bootcamp de Ciencia de Datos con Azure | Código Facilito             | December 2024     | [View Certificate](https://github.com/KeilorFP/Certificates/blob/main/certificado.pdf) |
+<h2 align="center">📜 Certifications:</h2>
+
+<table align="center" style="width: 80%; border: 1px solid #ddd; font-size: 18px;">
+  <tr>
+    <th>📄 Certification</th>
+    <th>🏫 Institution</th>
+    <th>📆 Date</th>
+    <th>🔗 Link</th>
+  </tr>
+  <tr>
+    <td>🎓 Bachiller en Ingeniería Industrial</td>
+    <td>Universidad Fidélitas</td>
+    <td>December 2022</td>
+    <td><a href="https://github.com/KeilorFP/Certificates/blob/main/TITULO%20UNIVERSIDAD.pdf">View Certificate</a></td>
+  </tr>
+  <tr>
+    <td>📊 Bootcamp de Ciencia de Datos con Azure</td>
+    <td>Código Facilito</td>
+    <td>December 2024</td>
+    <td><a href="https://github.com/KeilorFP/Certificates/blob/main/certificado.pdf">View Certificate</a></td>
+  </tr>
+</table>
 
 ---
 
-## 📊 **GitHub Stats:**  
+<h2 align="center">📊 GitHub Stats:</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeilorFP&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
 ---
 
-## 📫 **How to Reach Me:**  
-💼 [**LinkedIn**](https://www.linkedin.com/in/keilor-fallas-prado-55189b252)  
-📧 **Email:** kfallasprado@gmail.com  
+<h2 align="center">📫 How to Reach Me:</h2>
+
+<p align="center" style="font-size: 20px;">
+  💼 <a href="https://www.linkedin.com/in/keilor-fallas-prado-55189b252">LinkedIn</a><br>
+  📧 <strong>kfallasprado@gmail.com</strong>
+</p>
 
 ---
 
-<p align="center">
+<p align="center" style="font-size: 24px;">
   💡 Let's connect and collaborate on data-driven projects! 🚀  
 </p>
 
