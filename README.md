@@ -1,8 +1,3 @@
-## Hi there 👋
-<p align="center">
-  <img src="https://i.imgur.com/zN6xIbz.png" width="300px" alt="Data Scientist Banner"/>
-</p>
-
 # 👋 Hi there, I'm **Keilor FP**!  
 
 💻 **Data Scientist in Progress | Industrial Engineer | Lifelong Learner**  
