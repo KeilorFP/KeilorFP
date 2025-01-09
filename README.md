@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/zN6xIbz.png" width="500px" alt="Data Scientist Banner"/>
-</p>
-
 <h1 align="center" style="font-size: 48px; font-weight: bold; color: #3776AB;">
   👋 Hi there, I'm <strong>Keilor Fallas Prado</strong>!
 </h1>
@@ -96,7 +92,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-</p>
+
+[![LinkedIn]()](https://www.linkedin.com/in/tu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keith.dang1610@gmail.com)
+
 
 
