@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/zN6xIbz.png" width="500px" alt="Data Scientist Banner"/>
-</p>
-
-<h1 align="center" style="font-size: 48px; font-weight: bold; color: #3776AB;">
-  👋 Hi there, I'm <strong>Keilor Fallas Prado</strong>!
+ 👋 Hi there, I'm <strong>Keilor Fallas Prado</strong>!
 </h1>
 
 <p align="center" style="font-size: 24px; font-weight: bold; color: #2D2D2D;">
