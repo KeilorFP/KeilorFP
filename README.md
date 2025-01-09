@@ -51,6 +51,14 @@ I’ve gained hands-on experience through my **internship at Data Glacier**, whe
 
 ---
 
+
+## 📜 Certifications  
+
+- [Bootcamp de Ciencia de Datos con Azure - Código Facilito](https://github.com/KeilorFP/KeilorFP/blob/main/certificado.pdf)  
+
+
+---
+
 ### 📫 **How to Reach Me:**
 - [💼 LinkedIn](https://www.linkedin.com/in/keilor-fallas-prado-55189b252)  
 - 📧 Email: kfallasprado@gmail.com 
