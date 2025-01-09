@@ -1,5 +1,5 @@
- 👋 Hi there, I'm <strong>Keilor Fallas Prado</strong>!
-</h1>
+<h1 align="center" style="font-size: 48px; font-weight: bold; color: #3776AB;">
+  👋 Hi there, I'm <strong>Keilor Fallas Prado</strong>!
 
 <p align="center" style="font-size: 24px; font-weight: bold; color: #2D2D2D;">
   💻 <strong>Data Scientist in Progress | Industrial Engineer | Lifelong Learner</strong> 💻
