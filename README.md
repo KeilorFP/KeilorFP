@@ -65,13 +65,13 @@
     <td>🎓 Bachelor's Degree in Industrial Engineering</td>
     <td>Universidad Fidélitas</td>
     <td>December 2022</td>
-    <td><a href="https://github.com/KeilorFP/Certificates/blob/main/TITULO%20UNIVERSIDAD.pdf">View Certificate</a></td>
+    <td><a href="https://drive.google.com/uc?export=view&id=1-EnfrQPv61_X68Gu1DnZguLzNDjiL81v">View Certificate</a></td>
   </tr>
   <tr>
     <td>📊 Data Science Bootcamp with Azure</td>
     <td>Código Facilito</td>
     <td>December 2024</td>
-    <td><a href="https://github.com/KeilorFP/Certificates/blob/main/certificado.pdf">View Certificate</a></td>
+    <td><a href="https://drive.google.com/uc?export=view&id=1-FnSyUkRVdwbVt3wJK2Wryxd-ko7Aj9b">View Certificate</a></td>
   </tr>
 </table>
 
@@ -94,11 +94,12 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/keilor-fallas-prado-55189b252" target="_blank">
-  <img src="https://github.com/KeilorFP/Certificates/blob/main/Linkedl.png" alt="LinkedIn" width="180">
+  <img src="https://drive.google.com/uc?export=view&id=1-AWH6ObORV72rpw1gBouZ_O6wNDLB9b9" alt="LinkedIn" width="180">
 </a>
 <a href="mailto:kfallasprado@gmail.com">
-  <img src="https://raw.githubusercontent.com/KeilorFP/Certificates/main/Gmail.png" alt="Gmail" width="180">
+  <img src="https://drive.google.com/uc?export=view&id=1-Dw9pjEItB4U6836HRK_3j7da07BhDA1" alt="Gmail" width="180">
 </a>
+
 
 
 
