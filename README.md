@@ -65,13 +65,13 @@
     <td>🎓 Bachelor's Degree in Industrial Engineering</td>
     <td>Universidad Fidélitas</td>
     <td>December 2022</td>
-    <td><a href="https://drive.google.com/uc?export=view&id=1-EnfrQPv61_X68Gu1DnZguLzNDjiL81v">View Certificate</a></td>
+    <td><a href="https://drive.google.com/file/d/1-EnfrQPv61_X68Gu1DnZguLzNDjiL81v/preview">View Certificate</a></td>
   </tr>
   <tr>
     <td>📊 Data Science Bootcamp with Azure</td>
     <td>Código Facilito</td>
     <td>December 2024</td>
-    <td><a href="https://drive.google.com/file/d/1-EnfrQPv61_X68Gu1DnZguLzNDjiL81v/preview">View Certificate</a></td>
+    <td><a href="https://drive.google.com/file/d/1-FnSyUkRVdwbVt3wJK2Wryxd-ko7Aj9b/preview">View Certificate</a></td>
   </tr>
 </table>
 
