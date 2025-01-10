@@ -97,7 +97,7 @@
   <img src="https://github.com/KeilorFP/Certificates/blob/main/Linkedl.png" alt="LinkedIn" width="180">
 </a>
 <a href="mailto:kfallasprado@gmail.com">
-  <img src="https://github.com/KeilorFP/Certificates/blob/main/Gmail.png" alt="Gmail" width="180">
+  <img src="https://raw.githubusercontent.com/KeilorFP/Certificates/main/Gmail.png" alt="Gmail" width="180">
 </a>
 
 
